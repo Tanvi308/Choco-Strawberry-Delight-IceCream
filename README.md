@@ -1,37 +1,31 @@
-## Choco Strawberry Delight IceCream
+## Choco Strawberry Delight IceCr
 
-You can use the [editor on GitHub](https://github.com/Tanvi308/Choco-Strawberry-Delight-IceCream/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+I KNOW HOW HARD IT IS TO CHOOSE BETWEEN CHOCOLATE AND STRAWBERRY ICECREAM SO TODAY I HAVE GOT YOU CHOCOLATE-STRAWBERRY ICE CREAM WHICH IS VERY YUMMY .TRY IT !! 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Ingredients 
+-1 cup fresh strawberries
+-½ cup sugar divided
+-1 ¼ cups whole milk
+-1 ½ cups heavy cream
+-1 tsp vanilla extract
+-1 tsp salt
+-5 egg yolks
+-1 cup semisweet chocolate chips
 
-### Markdown
+INSTRUCTIONS
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1.Cut the strawberries into chunks. Sprinkle 1/4 cup of sugar over the strawberries and let sit for 10 minutes so all the juices are released.
 
-```markdown
-Syntax highlighted code block
+2.While the strawberries are sitting, whisk together 1 cup of whole milk, heavy cream, and vanilla extract in a small sauce pan. Heat over low heat until the milk is warm (about 3-5 minutes). Try some of the milk to test that it is warm. Add a pinch of salt and stir. Turn off the heat.
 
-# Header 1
-## Header 2
-### Header 3
+3.Mix the last 1/4 cup of sugar and egg yolks in a small bowl. Add a spoonful of the milk to the egg mixture and whisk until both are well incorporated. We are raising the temperature of the egg mixture, so the heated milk doesn't cook the eggs.
 
-- Bulleted
-- List
+4.Add the egg mixture to the milk in the sauce pan and whisk until the sugar melts. Set aside.
 
-1. Numbered
-2. List
+5.Add the strawberries from step 1 into a food processor. Pulse until the strawberries are broken down. Add the pureed strawberries to the cream and whisk well. Let the strawberry cream cool for 30 minutes.
 
-**Bold** and _Italic_ and `Code` text
+6.Combine the chocolate chips and the last 1/4 cup of whole milk in a bowl. Heat in the microwave in 10 second increments until the chocolate is melted (about 40 seconds to a minute).
 
-[Link](url) and ![Image](src)
-```
+7.Pour the strawberry cream into the ice cream maker. Drizzle the melted chocolate over the top. Churn for 20 minutes.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Tanvi308/Choco-Strawberry-Delight-IceCream/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+8.Pour the ice cream into a freezer safe container and freeze for 3-4 hours or overnight.
