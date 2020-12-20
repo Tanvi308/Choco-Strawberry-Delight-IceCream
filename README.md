@@ -4,12 +4,19 @@ I KNOW HOW HARD IT IS TO CHOOSE BETWEEN CHOCOLATE AND STRAWBERRY ICECREAM SO TOD
 
 Ingredients 
 -1 cup fresh strawberries
+
 -½ cup sugar divided
+
 -1 ¼ cups whole milk
+
 -1 ½ cups heavy cream
+
 -1 tsp vanilla extract
+
 -1 tsp salt
+
 -5 egg yolks
+
 -1 cup semisweet chocolate chips
 
 INSTRUCTIONS
