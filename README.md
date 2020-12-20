@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Choco Strawberry Delight IceCream
 
 You can use the [editor on GitHub](https://github.com/Tanvi308/Choco-Strawberry-Delight-IceCream/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
